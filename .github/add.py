@@ -1,4 +1,4 @@
-a=67
-b=87
+a=56
+b=67
 sum=a+b
 print(sum)
